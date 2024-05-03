@@ -1,0 +1,19 @@
+body {
+	background-color:beige;
+
+}
+th{ font-size: 20px; background-color:#e8d1c5; letter-spacing: 5px; font-family:serif;
+ }
+ td{color:#black; background-color:lightgoldenrodyellow; font: bolder;
+
+ }
+
+h1{ letter-spacing: 7px; text-align: center; font-family:sans-serif;
+	
+}
+
+table { border-color:black; background-color:#000000 
+}
+tr{font-size: 20px; background-color: #CF9FFF; letter-spacing: 5px; font-family: sans-serif;
+	
+}
